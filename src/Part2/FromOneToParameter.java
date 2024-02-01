@@ -1,3 +1,5 @@
+package Part2;
+
 public class FromOneToParameter {
     public static void main(String[] args) {
         printUntilNumber(5);

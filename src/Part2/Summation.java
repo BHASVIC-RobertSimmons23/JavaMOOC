@@ -1,3 +1,5 @@
+package Part2;
+
 public class Summation {
     public static void main(String[] args) {
         int answer = summation(4, 3, 6, 1);
