@@ -1,4 +1,4 @@
-package Part6;
+package Part6.MessagingServiceExercise;
 import java.util.Date;
 
 public class Message {

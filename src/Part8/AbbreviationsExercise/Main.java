@@ -1,4 +1,4 @@
-package Part7.AbbreviationsExercise;
+package Part8.AbbreviationsExercise;
 
 public class Main {
     public static void main(String[] args) {

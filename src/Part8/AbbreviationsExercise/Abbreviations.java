@@ -1,4 +1,4 @@
-package Part7.AbbreviationsExercise;
+package Part8.AbbreviationsExercise;
 
 import java.util.HashMap;
 

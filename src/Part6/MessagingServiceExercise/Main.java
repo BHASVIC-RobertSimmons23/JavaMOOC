@@ -1,4 +1,4 @@
-package Part6;
+package Part6.MessagingServiceExercise;
 
 public class Main {
     public static void main(String[] args) {

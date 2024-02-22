@@ -1,4 +1,6 @@
-package Part6;
+package Part6.MessagingServiceExercise;
+
+import Part6.MessagingServiceExercise.Message;
 
 import java.util.ArrayList;
 
